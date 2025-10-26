@@ -61,7 +61,7 @@ This project focuses on cleaning and preparing raw data using Microsoft Excel to
 - Checked for missing or invalid values
 
 ### 📸 Example Screenshot
- ![cleaning](images/cleaning.jpg)
+<img src="images/cleaning.jpg" width="550">
 
 ### 🏆 Key Outcome
 The final cleaned dataset is ready for dashboard creation or further analysis.
