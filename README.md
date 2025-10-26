@@ -31,7 +31,6 @@
 
 <img src="images/cleaning.jpg" width="350">
 
-
 ### 🏆 Key Insights
 - Middle-aged customers generated the highest sales.  
 - Higher income correlated with higher purchase frequency.  
