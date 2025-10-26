@@ -28,7 +28,7 @@
 - Visualize sales performance across regions
 
 ### 📸 Dashboard Preview
-![bike](images/bike.jpg)
+<img src "![bike](images/bike.jpg)" width="300">
 ![bike2](images/bike2.jpg)
 
 ### 🏆 Key Insights
