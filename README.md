@@ -40,7 +40,7 @@
 
 ### 📂 Files
 - https://github.com/Muna5abdullah/PortfolioProjects/blob/main/Bike%20Sales%20Dashboard%20Project.xlsx
-- PDf
+- https://github.com/Muna5abdullah/PortfolioProjects/blob/main/Bike%20Sales%20Dashboard.jpg
 
 ---
 
