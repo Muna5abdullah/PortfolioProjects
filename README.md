@@ -29,10 +29,10 @@
 
 ### 📸 Dashboard Preview
 
-<img src="images/bike2.jpg" width="350">
+<img src="images/bike2.jpg" width="400">
 
 
- ![bike](images/bike.jpg)
+
 
 ### 🏆 Key Insights
 - Middle-aged customers generated the highest sales.  
