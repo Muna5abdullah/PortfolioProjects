@@ -29,8 +29,8 @@
 
 ### 📸 Dashboard Preview
 
-<img src="images/bike2.jpg" width="500">
-
+<img src="images/bike2.jpg" width="550">
+<img src="images/bike.jpg" width="550">
 
 
 
