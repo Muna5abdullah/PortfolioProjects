@@ -31,6 +31,9 @@
 
 <img src="images/bike2.jpg" width="350">
 
+
+ ![bike](images/bike.jpg)
+
 ### 🏆 Key Insights
 - Middle-aged customers generated the highest sales.  
 - Higher income correlated with higher purchase frequency.  
