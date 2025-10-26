@@ -1,7 +1,7 @@
 # 📁 Excel Portfolio Projects
 
 ## 📋 Overview
-A collection of small Excel projects demonstrating data cleaning, preparation, and analysis skills.
+-  A collection of small Excel projects demonstrating data cleaning, preparation, and analysis skills.
 
 ## 🛠 Tools Used
 - Excel (Pivot Tables, Charts, Formulas, Functions)
@@ -14,7 +14,7 @@ A collection of small Excel projects demonstrating data cleaning, preparation, a
 
 ## 🚴 Bike Sales Dashboard (Excel)
 
-An interactive Excel dashboard analyzing bike sales data to uncover purchasing patterns, customer demographics, and regional performance.
+ -  An interactive Excel dashboard analyzing bike sales data to uncover purchasing patterns, customer demographics, and regional performance.
 
  ### 🛠 Tools Used
 - Excel  
