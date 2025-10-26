@@ -29,7 +29,7 @@
 
 ### 📸 Dashboard Preview
 
-<img src="images/bike2.jpg" width="400">
+<img src="images/bike2.jpg" width="500">
 
 
 
