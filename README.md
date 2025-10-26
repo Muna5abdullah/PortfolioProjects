@@ -7,8 +7,8 @@ A collection of small Excel projects demonstrating data cleaning, preparation, a
 - Excel (Pivot Tables, Charts, Formulas, Functions)
 
 ## 📂 Projects Included
-🚴 Bike Sales Dashboard (Excel)
-🧹 Data Cleaning in Excel
+- 🚴 Bike Sales Dashboard (Excel)
+- 🧹 Data Cleaning in Excel
 
 ---
 
