@@ -28,14 +28,16 @@
 - Visualize sales performance across regions
 
 ### 📸 Dashboard Preview
-(Insert screenshot here)
+![bike](images/bike.jpg)
+![bike2](images/bike2.jpg)
 
 ### 🏆 Key Insights
 - Middle-aged customers generated the highest sales.  
 - Higher income correlated with higher purchase frequency.  
 
 ### 📂 Files
-- Bike Sales Dashboard Project.xlsx
+- https://github.com/Muna5abdullah/PortfolioProjects/blob/main/Bike%20Sales%20Dashboard%20Project.xlsx
+- PDf
 
 ---
 
@@ -56,11 +58,11 @@ This project focuses on cleaning and preparing raw data using Microsoft Excel to
 - Checked for missing or invalid values
 
 ### 📸 Example Screenshot
-(Insert a screenshot of your Excel sheet here)
+ ![cleaning](images/cleaning.jpg)
 
 ### 🏆 Key Outcome
 The final cleaned dataset is ready for dashboard creation or further analysis.
 
 ### 📂 Files
-- Bike Sales Dashboard Project.xlsx
+- https://github.com/Muna5abdullah/PortfolioProjects/blob/main/Data%20Cleaning%20In%20Excel.xlsx
 ---
