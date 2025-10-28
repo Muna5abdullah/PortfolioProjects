@@ -7,12 +7,12 @@
 - Excel (Pivot Tables, Charts, Formulas, Functions)
 
 ## 📂 Projects Included
-- 🚴 Bike Sales Dashboard (Excel)
-- 🧹 Data Cleaning in Excel
+- 1- 🚴 Bike Sales Dashboard (Excel)
+- 2- 🧹 Data Cleaning in Excel
 
 ---
 
-## 🚴 Bike Sales Dashboard (Excel)
+## 1- 🚴 Bike Sales Dashboard (Excel)
 
  -  An interactive Excel dashboard analyzing bike sales data to uncover purchasing patterns, customer demographics, and regional performance.
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 🧹 Data Cleaning in Excel
+## 2- 🧹 Data Cleaning in Excel
 
 This project focuses on cleaning and preparing raw data using Microsoft Excel to ensure consistency, accuracy, and readiness for analysis.
 
