@@ -39,7 +39,7 @@
 - Higher income correlated with higher purchase frequency.  
 
 ### 📂 Files
-- (xlsx) https://github.com/Muna5abdullah/PortfolioProjects/blob/main/Bike%20Sales%20Dashboard%20Project.xlsx
+- (xlsx / Excel File ) https://github.com/Muna5abdullah/PortfolioProjects/blob/main/Bike%20Sales%20Dashboard%20Project.xlsx
 - (Dashboard) https://github.com/Muna5abdullah/PortfolioProjects/blob/main/Bike%20Sales%20Dashboard.jpg
 
 ---
@@ -67,5 +67,5 @@ This project focuses on cleaning and preparing raw data using Microsoft Excel to
 The final cleaned dataset is ready for dashboard creation or further analysis.
 
 ### 📂 Files
-- (xlsx) https://github.com/Muna5abdullah/PortfolioProjects/blob/main/Data%20Cleaning%20In%20Excel.xlsx
+- (xlsx / Excel File) https://github.com/Muna5abdullah/PortfolioProjects/blob/main/Data%20Cleaning%20In%20Excel.xlsx
 ---
